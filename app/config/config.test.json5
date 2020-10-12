@@ -1,0 +1,5 @@
+// -*- mode: json5; tab-width: 2; indent-tabs-mode: nil -*-
+{
+  port: 4000,
+  logEnabled: false
+}

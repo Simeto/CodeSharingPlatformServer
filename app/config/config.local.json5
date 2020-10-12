@@ -1,0 +1,8 @@
+// -*- mode: json5; tab-width: 2; indent-tabs-mode: nil -*-
+{
+  loglevel: 'debug',
+
+  cors: true,
+
+  mongoose: "mongodb://localhost/csps"
+}

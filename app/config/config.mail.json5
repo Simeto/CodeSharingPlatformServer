@@ -1,0 +1,10 @@
+// -*- mode: json5; tab-width: 2; indent-tabs-mode: nil -*-
+// 1. go to https://ethereal.email/create to create etheral account.
+// 2. Paste the user name and the pass here !
+// 3. Restart the server !
+{
+  nmhost: 'smtp.ethereal.email',
+  nmport: 587,
+  nmuser: 'jarret.harvey@ethereal.email',
+  nmpass: 'tGzANrVFKz3S7ttx7a'
+}

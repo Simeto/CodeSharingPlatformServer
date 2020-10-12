@@ -1,0 +1,15 @@
+// -*- mode: json5; tab-width: 2; indent-tabs-mode: nil -*-
+{
+  port: 5050,
+  baseUrl: 'http://localhost:5050',
+  loglevel: "info",
+  logEnabled: true,
+  cors: false,
+  apiBasePath: "/",
+  logPretty: false,
+  confirmationTime: 1000,
+  mongoose: "mongodb://localhost:27017/csps",
+  JWT_KEY: 'MyVerySecretCSPSKey',
+  UIPath: 'http://localhost:8080',
+
+}
