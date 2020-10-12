@@ -11,4 +11,4 @@ npm-debug.log*
 *.njsproj
 *.sln
 /app/server.pid
-/package-lock.json
+*.history
